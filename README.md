@@ -20,4 +20,7 @@
 * git push --set-upstream origin dev
 
 * git reflog
+
+* git reset --hard [versão]
+
 * git --help

@@ -24,3 +24,5 @@
 * git reset --hard [versão]
 
 * git --help
+
+## criat arquivo .gitignore

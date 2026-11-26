@@ -12,7 +12,12 @@
 * git branch
 * git branch experimental
 * git checkout experimental
+* git push --set-upstream origin experimental
 
-* git push --set-upstream origin main
-* git push -u origin main 
+* git branch
+* git branch dev
+* git checkout dev
+* git push --set-upstream origin dev
+
+* git reflog
 * git --help
